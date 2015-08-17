@@ -5,6 +5,7 @@ linux
 
 
 ::
-    print 'safa'
+
+    print 'abcedefaf'
 
 `afsf <http://www.baidu.com>`_
