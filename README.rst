@@ -1,11 +1,2 @@
-linux
-=========
-
-`tsts <www.baidu.com>`_
-
-
-::
-
-    print 'abcedefaf'
-
-`afsf <http://www.baidu.com>`_
+扬州大学教务系统
+=======================
